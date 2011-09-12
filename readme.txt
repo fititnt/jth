@@ -5,6 +5,10 @@ other community project that I get envolved.
 
 
 -------------------------------- Changelog --------------------------------
+-2011-09-12
++ Added $jtp->load() : load object of the template
++ Added $jtp->poscount() : simple and multidimensional $this->countModules()
+
 -2011-09-12: Initial release
 ! Created. Forked from joomleiros template from #jdbr11
 

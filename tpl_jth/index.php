@@ -1,3 +1,20 @@
+<?php
+/**
+ * @package     JTH
+ * @author      Joomla! Coders Brazil - @JCoderBR ( http://jcbr.github.com )
+ * @copyright   Copyright (C) 2011 Joomla! Coders Brazil. All rights reserved.
+ * @license     GPL3
+ */
+// no direct access
+defined('_JEXEC') or die;
+
+//Basic load of JTP
+include_once 'jtp/jtp.php';
+$jtp = new jtp;
+$jtp->load($this);
+
+?>
+
 <!DOCTYPE HTML>
 <html>
 <head>
